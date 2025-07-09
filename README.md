@@ -19,18 +19,9 @@
 - 💡 Transistor-boosted sound output
 - 🎨 Clean and responsive web design
 
----
 
-## 📸 Demo & Images
 
-| Web Interface | Hardware Setup | LCD Display |
-|---------------|----------------|--------------|
-| ![Web UI](images/web_ui.png) | ![Hardware](images/hardware.jpg) | ![LCD](images/lcd.png) |
 
-🎥 **Demo Video:**  
-[Watch on YouTube](https://youtu.be/your-video-link-here)
-
----
 
 ## 🔧 Hardware Components
 
